@@ -8,3 +8,5 @@ To allow the computer to go back to sleep again, simply press a key or close the
 This is specially useful when you're watching a video or simply using your PC in a way that no interaction from the user is necessary but you still need the screen/speakers to stay on.
 
 I made this app out of necessity since VLC used to do this with a paused video even but since version 3.0 the developers "fixed that bug" and now it doesn't work the same way it did before.
+
+You can easily download the portable executable from [HERE](https://github.com/eldenis/KeepScreenOn/releases).
