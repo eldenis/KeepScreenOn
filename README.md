@@ -1,4 +1,4 @@
-# KeepScreenOn
+# Keep Screen On
 A simple console app to keep windows from turning off the screen and locking the user out.
 
 Just execute it and presto. Every 45 secs the app will simulate a key stroke (shift key) and that'll keep windows from fading/turning off the screen or locking the current user out.
